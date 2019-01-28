@@ -1,0 +1,14 @@
+.Circle{
+      background-color: #FFEB3B;
+      height: 200px;
+      width: 200px;  
+      border-radius: 50%; 
+      display: inline-table;    
+      margin: 10px 0 10px 0;     
+      p{
+            vertical-align: middle;
+            display: table-cell;
+            font-size: 16px;
+            font-weight: 500;
+      }
+}
