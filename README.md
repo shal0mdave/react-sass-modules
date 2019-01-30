@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 1. For styles that are scoped to components, create stylesheets files that end with `.module.scss`
 
 #### Example:
-```
+```css
 .Circle{ 
       background-color: #FFEB3B;
       height: 200px;
@@ -32,7 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 2. Import the Sass files as objects and use the styling in your components
 
 #### Example:
-```
+```jsx
 import React from 'react';
 import { Circle }  from './YellowCircle.module.scss';
 
